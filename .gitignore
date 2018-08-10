@@ -32,3 +32,13 @@ target/
 #system ignore
 .DS_Store
 Thumbs.db
+
+#db
+datasource.properties
+
+#zhifubao
+zfbinfo.properties
+
+#log
+*.gz
+
